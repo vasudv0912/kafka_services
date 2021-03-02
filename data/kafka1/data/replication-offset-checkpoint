@@ -41,7 +41,7 @@ __consumer_offsets 2 65
 __consumer_offsets 43 0
 __consumer_offsets 6 0
 __consumer_offsets 14 0
-books 0 7
+books 0 41
 test-topic 0 0
 check4 0 0
 __consumer_offsets 20 0
